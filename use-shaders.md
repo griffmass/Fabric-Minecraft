@@ -23,13 +23,21 @@
 
 ## 2. Download Shader Packs
 
-- Step 1 : Click the OPTION <a href="https://drive.google.com/drive/u/0/folders/1zhcKd8_JRFz0OPrVxE_usgp4cKsTGP38">
-    <img src="assets/texts/download mods.png" alt="Download Mods" width="150">
-</a>
+| Shader Name                                | User PC Specification | Power Usage      |
+|--------------------------------------------|------------------------|------------------|
+| ComplementaryUnbound_r5.3                  | Mid-range PC           | Power Hungry     |
+| Sildur's Enhanced Default v1.17 Fast       | Low-end PC             | Power Efficient  |
 
----
+- Step 1 : Download recommended shaders here -> https://drive.google.com/drive/u/0/folders/1zhcKd8_JRFz0OPrVxE_usgp4cKsTGP38
+- Step 2 : Open your File Explorer
+- Step 3 : Go to `C:` > `Users` > `User` > `AppData` > `Roaming` > `minecraft` > `shaderpacks`
 
-<div align="center"> <img src="assets/images/import-mods/Screenshot 2024-12-28 231255.png"> </div>
 
+- Step 6 : at shaderpacks folder, paste your shader/s**
+
+- Step 7 : You're Done
 ##
 
+***Note:** in your file explorer you can search* `%appdata%` *to redirect to the* `Roaming` *Folder*
+
+##
