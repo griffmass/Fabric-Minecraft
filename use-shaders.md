@@ -41,3 +41,13 @@
 ***Note:** in your file explorer you can search* `%appdata%` *to redirect to the* `Roaming` *Folder*
 
 ##
+
+---
+
+## 3. Activate Shaders
+
+**Open your Minecraft**
+
+- `Options` > `Video Settings...` > `Shader Packs...` > `Select Shaders` > `Apply`
+
+- Toggle Shaders -> Press **K**
