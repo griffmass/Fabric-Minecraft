@@ -49,11 +49,12 @@
 ## 5. Install and Select the Proper Version
 
 **Our server requirements:**
-`Fabric Loader 0.16.9-1.21`
+`Fabric 1.21`
 
 To connect, you must install the correct Minecraft version; otherwise, it will not work.
-- After selecting the version `Release Fabric Loader 0.16.9-1.21`, click **Install.**
+- After selecting the version `Fabric 1.21`, click **Install.**
+- If the `Fabric 1.21` is already installed, you need to check the `Force Update`, click **Install**
 
-<div align="center"> <img src="assets/images/setup-mc/release fabric-loader.jpg"> </div>
+<div align="center"> <img src="assets/images/setup-mc/force update.jpg"> </div>
 
 ##
