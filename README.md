@@ -22,7 +22,7 @@
 
 <br>
 <a href="import-mods.md">
-    <img src="assets/texts/import mods.png" alt="Download Mods" width="150">
+    <img src="assets/texts/import mods.png" alt="Import Mods" width="150">
 </a>
 <br>
 
