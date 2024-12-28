@@ -4,36 +4,30 @@
 
 ---
 
-## 1. Download and Install TLauncher
-<div align="center"> <img src="assets/images/setup-mc/visit tlauncher.jpg"> </div>
+## 1. Download All Mods
 
-- Step 1 : Visit the official website of `TLauncher` : https://tlauncher.org/en/
+- Step 1 : Click the OPTION <a href="https://drive.google.com/drive/folders/1o1ApSDh8yDyCc9X9AOIY6pbSmIzfAtn4?usp=drive_link">
+    <img src="assets/texts/download mods.png" alt="Download Mods" width="150">
+</a>
 
-- Step 2 : Download TL For `Windows`
+- Step 2 : Download the Folder **[ all mods ]**
 
-- Step 3 : After downloading, click on the executable file
+- Step 3 : Open your File Explorer
 
-- Step 4 : Set up TLauncher by clicking "Continue" on all prompts and keeping the default settings until the installation is successful
+- Step 4 : Open the zip file then copy or cut all **Executable Jar File**
 
-<div align="center"> <img src="assets/images/setup-mc/tlauncher-setup6.jpg"> </div>
+- Step 5 : Go to `C:` > `Users` > `User` > `AppData` > `Roaming` > `minecraft` > `mods`
 
----
+- Step 6 : at mods folder, paste all **Executable Jar File**
 
-## 2. Create a TLauncher Account : https://tlauncher.org/en/reg/
+- Step 7 : You're Done
+  ##
 
-<div align="center"> <img src="assets/images/setup-mc/signup.jpg"> </div>
-
----
-
-## 3. Download and Import Skin : https://namemc.com/
-
-<div align="center"> <img src="assets/images/setup-mc/skin.jpg"> </div>
-
-- Step 1 : Select a skin from NameMC and click the green "Download" button 🔽
-- Step 2 : Return to TLauncher and go to your profile: https://tlauncher.org/profile/
-- Step 3 : Click "Upload Skin" and select the skin you downloaded
+***Note:** in your file explorer you can search* `%appdata%` *to redirect to the* `Roaming` *Folder*
 
 ---
+
+
 
 ## 4. Add Your Account to the TLauncher Desktop App
 
