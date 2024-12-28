@@ -16,7 +16,7 @@
 </a>
 
 <br>
-<a href="install-minecraft.md">
+<a href="https://drive.google.com/drive/folders/1o1ApSDh8yDyCc9X9AOIY6pbSmIzfAtn4?usp=drive_link">
     <img src="assets/texts/download mods.png" alt="Download Mods" width="150">
 </a>
 <br>
