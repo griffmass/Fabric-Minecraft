@@ -2,11 +2,14 @@
 
 **Server Primary Requirements.**
 
-1. Tlauncher installed to your computer
-2. Fabric Loader 0.16.9-1.21 Minecraft Version
-3. Tlauncher Account
-4. Required Mods
+1. Tlauncher Installed to your computer
+2. Tlauncher Account
+3. Fabric Loader 0.16.9-1.21 Minecraft Version
+4. Installed Mods
 
+##
+   ***Note:** The OPTIONS BELOW WILL HELP YOU COMPLETE THE 4 REQUIREMENTS*
+##
 ---
 
 # OPTIONS
