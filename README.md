@@ -8,11 +8,11 @@
 4. Installed Mods
 
 ##
-   ***Note:** The OPTIONS BELOW WILL HELP YOU COMPLETE THE 4 REQUIREMENTS*
+   ***Note:** The **TUTORIALS** BELOW WILL HELP YOU COMPLETE THE 4 REQUIREMENTS*
 ##
 ---
 
-# OPTIONS
+# TUTORIALS
 
 <a href="install-minecraft.md">
     <img src="assets/texts/setup-mc.png" alt="Install Minecraft" width="150">
@@ -27,9 +27,17 @@
 <a href="import-mods.md">
     <img src="assets/texts/import mods.png" alt="Import Mods" width="150">
 </a>
+
+<br>
+<a href="join-to-server.md">
+    <img src="assets/texts/join to server.png" alt="Join to Server" width="150">
+</a>
 <br>
 
-
+<a href="use-shaders.md">
+    <img src="assets/texts/use shaders.png" alt="Use Shaders" width="150">
+</a>
+<br>
 
 
 
