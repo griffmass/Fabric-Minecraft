@@ -27,27 +27,7 @@
 
 ---
 
-
-
-## 4. Add Your Account to the TLauncher Desktop App
-
-<div align="center"> <img src="assets/images/setup-mc/add tlauncher account.jpg"> </div>
-
-- Step 1: Click on `(no account)` and select `Configure accounts...`
-- Step 2 : Click `Add`
-- Step 3 : Enter your TLauncher username and password, then click `Save an account`
-- Step 4 : You're done!
-
----
-
-## 5. Install and Select the Proper Version
-
-**Our server requirements:**
-`Fabric Loader 0.16.9-1.21`
-
-To connect, you must install the correct Minecraft version; otherwise, it will not work.
-- After selecting the version `Release Fabric Loader 0.16.9-1.21`, click **Install.**
-
-<div align="center"> <img src="assets/images/setup-mc/release fabric-loader.jpg"> </div>
+<div align="center"> <img src="assets/images/import-mods/Screenshot 2024-12-28 231255.png"> </div>
 
 ##
+
