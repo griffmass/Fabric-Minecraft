@@ -15,6 +15,10 @@
     <img src="assets/texts/setup-mc.png" alt="Install Minecraft" width="150">
 </a>
 
+<br>
+<a href="install-minecraft.md">
+    <img src="assets/texts/download mods.png" alt="Download Mods" width="150">
+</a>
 
 
 
