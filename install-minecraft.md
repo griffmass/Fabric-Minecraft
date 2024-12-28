@@ -17,4 +17,14 @@
 
 ---
 
-## 2. Create Tlauncher Account
+## 2. Create Tlauncher Account : https://tlauncher.org/en/reg/
+
+<div align="center"> <img src="assets/images/setup-mc/signup.jpg"> </div>
+
+---
+
+## 3. Download and Import Skin : https://namemc.com/
+
+<div align="center"> <img src="assets/images/setup-mc/skin.jpg"> </div>
+
+- Step 1 : Select your skin and click the Download green button 🔽
