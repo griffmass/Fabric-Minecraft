@@ -39,5 +39,10 @@
 </a>
 <br>
 
+<a href="resourcepack.md">
+    <img src="assets/texts/resourcepack.png" alt="Use Resourcepack" width="150">
+</a>
+<br>
+
 
 
