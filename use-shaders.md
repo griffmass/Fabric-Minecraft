@@ -6,19 +6,13 @@
 
 ## 1. Download and Install Iris Shaders
 
-- Step 1 : Go to official Iris Shaders Website -> https://www.irisshaders.dev/
-
-- Step 2 : Click **Download Now**
-
-- Step 3 : Click **Download Universal Jar**
-
-- Step 4 : After Downloading, Open the file then install.
-  
-- Step 5 : Select game version: Consider the `1.21`
-
-- Step 6 : Select installation type: Iris + Fabric
-
-- Step 7 : Click Install then Close
+- Step 1 : Go to the official Iris Shaders website: -> https://www.irisshaders.dev/
+- Step 2 : Click **Download Now.**
+- Step 3 : Click **Download Universal Jar.**
+- Step 4 : After downloading, open the file and install it.
+- Step 5 : Select the game version (e.g., `1.21`).
+- Step 6 : Select the installation type: Iris + Fabric.
+- Step 7 : Click **Install**, then **Close.**
 
 ##
 
@@ -33,14 +27,11 @@
 | ComplementaryUnbound_r5.3                  | Mid-range PC           | Power Hungry     |
 | Sildur's Enhanced Default v1.17 Fast       | Low-end PC             | Power Efficient  |
 
-- Step 1 : Download recommended shaders here -> https://drive.google.com/drive/u/0/folders/1zhcKd8_JRFz0OPrVxE_usgp4cKsTGP38
-- Step 2 : Open your File Explorer
-- Step 3 : Go to `C:` > `Users` > `User` > `AppData` > `Roaming` > `minecraft` > `shaderpacks`
-
-
-- Step 6 : at shaderpacks folder, paste your shader/s**
-
-- Step 7 : You're Done
+- Step 1 : Download recommended shaders here -> [Google Drive Link](https://drive.google.com/drive/u/0/folders/1zhcKd8_JRFz0OPrVxE_usgp4cKsTGP38)
+- Step 2 : Open File Explorer.
+- Step 3 : Navigate to `C:` > `Users` > `User` > `AppData` > `Roaming` > `minecraft` > `shaderpacks`
+- Step 4 : Paste your shader(s) into the **shaderpacks** folder.
+- Step 5 : You're done!
 ##
 
 ***Note:** in your file explorer you can search* `%appdata%` *to redirect to the* `Roaming` *Folder*
@@ -51,9 +42,10 @@
 
 ## 3. Activate Shaders
 
-**Open your Minecraft**
-
-- `Options` > `Video Settings...` > `Shader Packs...` > `Select Shaders` > `Apply`
+- Step 1: Open Minecraft.
+- Step 2: Go to `Options` > `Video Settings...` > `Shader Packs...`
+- Step 3: Select the shader you want to use.
+- Step 4: Click **Apply.**
 
 <div align="center"> <img src="assets/images/use-shaders/Screenshot (668).jpg"> </div>  
 <div align="center"> <img src="assets/images/use-shaders/Screenshot (669).jpg"> </div>  
