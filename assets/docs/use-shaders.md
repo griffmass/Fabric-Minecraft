@@ -1,6 +1,19 @@
+### Shortcuts
+
+[![Set up Minecraft](https://img.shields.io/badge/Set%20up%20Minecraft-darkgreen?style=for-the-badge&logoColor=gray)](install-minecraft.md)
+[![Essential Mods](https://img.shields.io/badge/Essential%20Mods-darkgreen?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/1expguYgTjUxkGpnMVZYCzMNWrF-VKAHP)
+[![Mod Collections](https://img.shields.io/badge/Mod%20Collections-darkgreen?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/1zVUG5khpVl5C_pMYmL3IO9xMy03WYyUB)
+[![Download Links](https://img.shields.io/badge/Download%20Links-darkgreen?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/12r5TuwIdvtbbt_RJacWdFZ7pzLhuUHIU)
+[![Import Mods](https://img.shields.io/badge/Import%20Mods-darkgreen?style=for-the-badge&logoColor=gray)](import-mods.md)
+[![Join Server](https://img.shields.io/badge/Join%20Server-darkgreen?style=for-the-badge&logoColor=gray)](join-to-server.md)
+[![Resource Pack](https://img.shields.io/badge/Resource%20Packs-darkgreen?style=for-the-badge&logoColor=gray)](resourcepack.md)
+[![Home](https://img.shields.io/badge/Home-darkgreen?style=for-the-badge&logoColor=gray)](../../README.md)
+
+---
+
 ##
 
-<div align="center"> <img src="assets/texts/use shaders.png"> </div>
+<div align="center"> <img src="../../assets/texts/use shaders.png"> </div>
 
 ---
 
@@ -16,7 +29,7 @@
 
 ##
 
-<div align="center"> <img src="assets/images/use-shaders/Screenshot (665).jpg"> </div>
+<div align="center"> <img src="../../assets/images/use-shaders/Screenshot (665).jpg"> </div>
 
 ---
 
@@ -47,16 +60,16 @@
 - Step 3: Select the shader you want to use.
 - Step 4: Click **Apply.**
 
-<div align="center"> <img src="assets/images/use-shaders/Screenshot (668).jpg"> </div>  
-<div align="center"> <img src="assets/images/use-shaders/Screenshot (669).jpg"> </div>  
-<div align="center"> <img src="assets/images/use-shaders/Screenshot (670).jpg"> </div>  
-<div align="center"> <img src="assets/images/use-shaders/Screenshot (672).jpg"> </div>  
+<div align="center"> <img src="../../assets/images/use-shaders/Screenshot (668).jpg"> </div>  
+<div align="center"> <img src="../../assets/images/use-shaders/Screenshot (669).jpg"> </div>  
+<div align="center"> <img src="../../assets/images/use-shaders/Screenshot (670).jpg"> </div>  
+<div align="center"> <img src="../../assets/images/use-shaders/Screenshot (672).jpg"> </div>  
 
 ##
 
-- Toggle Shaders -> Press **K**
+# Toggle Shaders -> Press **K**
 
-<div align="center"> <img src="assets/images/use-shaders/Screenshot (674).jpg"> </div>  
-<div align="center"> <img src="assets/images/use-shaders/Screenshot (675).jpg"> </div>  
+<div align="center"> <img src="../../assets/images/use-shaders/Screenshot (674).jpg"> </div>  
+<div align="center"> <img src="../../assets/images/use-shaders/Screenshot (675).jpg"> </div>  
 
 
