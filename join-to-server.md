@@ -25,9 +25,26 @@
 
 ***Note:** in your file explorer you can search* `%appdata%` *to redirect to the* `Roaming` *Folder*
 
+<div align="center"> <img src="assets/images/join-server/Screenshot (665).jpg"> </div>
+
 ---
 
 <div align="center"> <img src="assets/images/import-mods/Screenshot 2024-12-28 231255.png"> </div>
 
-##
+## 2. Open Minecraft
 
+`Multiplayer` -> `Add Server` -> `Enter Server Address` -> `Done` -> `Minecraft Server` -> `Join Server`
+
+**Server Address :**
+
+```
+yamimahu.aternos.me:63908
+```
+
+<div align="center"> <img src="assets/images/join-server/Screenshot (656).jpg"> </div>
+<div align="center"> <img src="assets/images/join-server/Screenshot (657).jpg"> </div>
+<div align="center"> <img src="assets/images/join-server/Screenshot (658).jpg"> </div>
+<div align="center"> <img src="assets/images/join-server/Screenshot (660).jpg"> </div>
+<div align="center"> <img src="assets/images/join-server/Screenshot (661).jpg"> </div>
+
+##
