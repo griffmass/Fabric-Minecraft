@@ -25,11 +25,9 @@
 
 ***Note:** in your file explorer you can search* `%appdata%` *to redirect to the* `Roaming` *Folder*
 
-<div align="center"> <img src="assets/images/join-server/Screenshot (665).jpg"> </div>
+<div align="center"> <img src="assets/images/import-mods/Screenshot 2024-12-28 231255.png"> </div>
 
 ---
-
-<div align="center"> <img src="assets/images/import-mods/Screenshot 2024-12-28 231255.png"> </div>
 
 ## 2. Open Minecraft
 
