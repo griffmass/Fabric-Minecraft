@@ -1,18 +1,31 @@
+### Shortcuts
+
+[![Set up Minecraft](https://img.shields.io/badge/Set%20up%20Minecraft-skyblue?style=for-the-badge&logoColor=gray)](assets/texts/install-minecraft.md)
+[![Essential Mods](https://img.shields.io/badge/Essential%20Mods-lightgray?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/1expguYgTjUxkGpnMVZYCzMNWrF-VKAHP)
+[![Mod Collections](https://img.shields.io/badge/Mod%20Collections-gray?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/1zVUG5khpVl5C_pMYmL3IO9xMy03WYyUB)
+[![Download Links](https://img.shields.io/badge/Download%20Links-gray?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/12r5TuwIdvtbbt_RJacWdFZ7pzLhuUHIU)
+[![Import Mods](https://img.shields.io/badge/Import%20Mods-purple?style=for-the-badge&logoColor=gray)](assets/texts/import-mods.md)
+[![Join Server](https://img.shields.io/badge/Join%20Server-orange?style=for-the-badge&logoColor=gray)](assets/texts/join-to-server.md)
+[![Add Shaders](https://img.shields.io/badge/Add%20Shaders-darkgreen?style=for-the-badge&logoColor=gray)](assets/texts/use-shaders.md)
+[![Resource Pack](https://img.shields.io/badge/Resource%20Packs-blue?style=for-the-badge&logoColor=gray)](assets/texts/resourcepack.md)
+
+---
+
 # Minecraft-Fabric⛏️
 
 **Server Primary Requirements.**
 
 1. Tlauncher Installed to your computer
 2. Tlauncher Account
-3. Fabric Loader 0.16.9-1.21 Minecraft Version
+3. Fabric 1.21 Minecraft Version
 4. Installed Mods
 
 ##
-   ***Note:** The **TUTORIALS** BELOW WILL HELP YOU COMPLETE THE 4 REQUIREMENTS*
+   ***Note:** The **GUIDES** BELOW WILL HELP YOU COMPLETE THE 4 REQUIREMENTS*
 ##
 ---
 
-# TUTORIALS
+# GUIDES
 
 <a href="assets/docs/install-minecraft.md">
     <img src="assets/texts/setup-mc.png" alt="Install Minecraft" width="150">
