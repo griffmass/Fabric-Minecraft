@@ -7,7 +7,7 @@
 [![Import Mods](https://img.shields.io/badge/Import%20Mods-orange?style=for-the-badge&logoColor=gray)](import-mods.md)
 [![Add Shaders](https://img.shields.io/badge/Add%20Shaders-orange?style=for-the-badge&logoColor=gray)](use-shaders.md)
 [![Resource Pack](https://img.shields.io/badge/Resource%20Packs-orange?style=for-the-badge&logoColor=gray)](resourcepack.md)
-[![Home](https://img.shields.io/badge/Home-orange?style=for-the-badge&logoColor=gray)](../../README.md)
+[![Home](https://img.shields.io/badge/Home-white?style=for-the-badge&logoColor=gray)](../../README.md)
 
 ---
 
