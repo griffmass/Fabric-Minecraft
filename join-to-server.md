@@ -4,23 +4,17 @@
 
 ---
 
-## 1. Join to our official server
+## 1. Join Our Official Server
 
-- Step 1 : Click the OPTION <a href="https://drive.google.com/drive/folders/1o1ApSDh8yDyCc9X9AOIY6pbSmIzfAtn4?usp=drive_link">
-    <img src="assets/texts/download mods.png" alt="Download Mods" width="150">
-</a>
+- Step 1 : Download the mods from here: [Google Drive Link](https://drive.google.com/drive/u/0/folders/1expguYgTjUxkGpnMVZYCzMNWrF-VKAHP)
+- Step 2 : Select all files and download them. Since there are multiple files, the download will be in a `.zip` format.
+- Step 3 : Open your File Explorer.
+- Step 4 : Extract the `.zip` file, then copy or cut all the contents (**Executable Jar Files**).
+- Step 5 : Navigate to the following folder:
 
-- Step 2 : Download the Folder **[ all mods ]**
-
-- Step 3 : Open your File Explorer
-
-- Step 4 : Open the zip file then copy or cut all **Executable Jar File**
-
-- Step 5 : Go to `C:` > `Users` > `User` > `AppData` > `Roaming` > `minecraft` > `mods`
-
-- Step 6 : at mods folder, paste all **Executable Jar File**
-
-- Step 7 : You're Done
+    `C:` > `Users` > `User` > `AppData` > `Roaming` > `minecraft` > `mods`
+- Step 6 : Paste all the **Executable Jar Files** into the `mods` folder.
+- Step 7 : You're done!
   ##
 
 ***Note:** in your file explorer you can search* `%appdata%` *to redirect to the* `Roaming` *Folder*
@@ -31,8 +25,10 @@
 
 ## 2. Open Minecraft
 
-`Multiplayer` -> `Add Server` -> `Enter Server Address` -> `Done` -> `Minecraft Server` -> `Join Server`
+Go to:
 
+`Multiplayer` -> `Add Server` -> `Enter Server Address` -> `Done` -> `Minecraft Server` -> `Join Server`
+##
 **Server Address :**
 
 ```
