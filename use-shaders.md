@@ -19,6 +19,11 @@
 - Step 6 : Select installation type: Iris + Fabric
 
 - Step 7 : Click Install then Close
+
+##
+
+<div align="center"> <img src="assets/images/join-server/Screenshot (665).jpg"> </div>
+
 ---
 
 ## 2. Download Shader Packs
@@ -50,4 +55,16 @@
 
 - `Options` > `Video Settings...` > `Shader Packs...` > `Select Shaders` > `Apply`
 
+<div align="center"> <img src="assets/images/use-shaders/Screenshot (668).jpg"> </div>  
+<div align="center"> <img src="assets/images/use-shaders/Screenshot (669).jpg"> </div>  
+<div align="center"> <img src="assets/images/use-shaders/Screenshot (670).jpg"> </div>  
+<div align="center"> <img src="assets/images/use-shaders/Screenshot (672).jpg"> </div>  
+
+##
+
 - Toggle Shaders -> Press **K**
+
+<div align="center"> <img src="assets/images/use-shaders/Screenshot (674).jpg"> </div>  
+<div align="center"> <img src="assets/images/use-shaders/Screenshot (675).jpg"> </div>  
+
+
