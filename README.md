@@ -10,6 +10,21 @@
 [![Resource Pack](https://img.shields.io/badge/Resource%20Packs-blue?style=for-the-badge&logoColor=gray)](assets/docs/resourcepack.md)
 
 ---
+<div align="center"> <img src="assets/images/thumbnail/thumbnail-text.png"> </div>
+<div align="center"> <img src="assets/images/thumbnail/thumbnail.png"> </div>
+
+---
+##
+
+# Aternos Server Address
+```
+yamimahu.aternos.me:63908
+````
+
+# Minecraft Version
+`Fabric 1.21`
+
+---
 
 # Minecraft-Fabric⛏️
 
@@ -17,7 +32,7 @@
 
 1. Tlauncher Installed to your computer
 2. Tlauncher Account
-3. Fabric 1.21 Minecraft Version
+3. __Fabric 1.21__ Minecraft Version
 4. Installed Mods
 
 ##
@@ -56,6 +71,15 @@
     <img src="assets/texts/resourcepack.png" alt="Use Resourcepack" width="150">
 </a>
 <br>
+
+---
+
+### We Value Your Feedback!
+Have a moment to share your thoughts about my repository? I’d love to hear from you!
+
+👉 [Click here to provide your feedback](https://forms.gle/hcPwKUXLbG2WCxSb8)
+
+Your input will help improve and refine this project. Thank you for your time and support!
 
 
 
