@@ -1,11 +1,11 @@
 ##
 
-<div align="center"> <img src="assets/texts/setup-mc.png"> </div>
+<div align="center"> <img src="../../assets/texts/setup-mc.png"> </div>
 
 ---
 
 ## 1. Download and Install TLauncher
-<div align="center"> <img src="assets/images/setup-mc/visit tlauncher.jpg"> </div>
+<div align="center"> <img src="../../assets/images/setup-mc/visit tlauncher.jpg"> </div>
 
 - Step 1 : Visit the official website of **TLauncher**: https://tlauncher.org/en/
 
@@ -15,7 +15,7 @@
 
 - Step 4 : Set up TLauncher by clicking "**Continue**" on all prompts and keeping the default settings until the installation is successful.
 
-<div align="center"> <img src="assets/images/setup-mc/tlauncher-setup6.jpg"> </div>
+<div align="center"> <img src="../../assets/images/setup-mc/tlauncher-setup6.jpg"> </div>
 
 ---
 
@@ -23,14 +23,14 @@
 
 [Register on the official TLauncher website.](https://tlauncher.org/en/reg/)
 
-<div align="center"> <img src="assets/images/setup-mc/signup.jpg"> </div>
+<div align="center"> <img src="../../assets/images/setup-mc/signup.jpg"> </div>
 
 ---
 
 ## 3. Download and Import a Skin 
 
 Visit [NameMC](https://namemc.com/) to download a skin.
-<div align="center"> <img src="assets/images/setup-mc/skin.jpg"> </div>
+<div align="center"> <img src="../../assets/images/setup-mc/skin.jpg"> </div>
 
 - Step 1 : Select a skin from NameMC and click the green "**Download**" button 🔽
 - Step 2 : Log in to TLauncher and go to your profile: https://tlauncher.org/profile/
@@ -40,7 +40,7 @@ Visit [NameMC](https://namemc.com/) to download a skin.
 
 ## 4. Add Your Account to the TLauncher Desktop Ap
 
-<div align="center"> <img src="assets/images/setup-mc/add tlauncher account.jpg"> </div>
+<div align="center"> <img src="../../assets/images/setup-mc/add tlauncher account.jpg"> </div>
 
 - Step 1: Click on `(no account)` and select `Configure accounts...`
 - Step 2 : Click `Add`
@@ -58,6 +58,6 @@ To connect to the server, you must install the correct Minecraft version.
 - If the version `Fabric 1.21` is not installed, select it and click __Install__.
 - If `Fabric 1.21` is already installed, check the "`Force Update`" option, then click __Install__.
 
-<div align="center"> <img src="assets/images/setup-mc/force update.jpg"> </div>
+<div align="center"> <img src="../../assets/images/setup-mc/force update.jpg"> </div>
 
 ##
