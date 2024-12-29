@@ -7,35 +7,38 @@
 ## 1. Download and Install TLauncher
 <div align="center"> <img src="assets/images/setup-mc/visit tlauncher.jpg"> </div>
 
-- Step 1 : Visit the official website of `TLauncher` : https://tlauncher.org/en/
+- Step 1 : Visit the official website of **TLauncher**: https://tlauncher.org/en/
 
-- Step 2 : Download TL For `Windows`
+- Step 2 : Download **TLauncher** for **Windows**.
 
-- Step 3 : After downloading, click on the executable file
+- Step 3 : Once the download is complete, run the executable file.
 
-- Step 4 : Set up TLauncher by clicking "Continue" on all prompts and keeping the default settings until the installation is successful
+- Step 4 : Set up TLauncher by clicking "**Continue**" on all prompts and keeping the default settings until the installation is successful.
 
 <div align="center"> <img src="assets/images/setup-mc/tlauncher-setup6.jpg"> </div>
 
 ---
 
-## 2. Create a TLauncher Account : https://tlauncher.org/en/reg/
+## 2. Create a TLauncher Account
+
+[Register on the official TLauncher website.](https://tlauncher.org/en/reg/)
 
 <div align="center"> <img src="assets/images/setup-mc/signup.jpg"> </div>
 
 ---
 
-## 3. Download and Import Skin : https://namemc.com/
+## 3. Download and Import a Skin 
 
+Visit [NameMC](https://namemc.com/) to download a skin.
 <div align="center"> <img src="assets/images/setup-mc/skin.jpg"> </div>
 
-- Step 1 : Select a skin from NameMC and click the green "Download" button 🔽
-- Step 2 : Return to TLauncher and go to your profile: https://tlauncher.org/profile/
-- Step 3 : Click "Upload Skin" and select the skin you downloaded
+- Step 1 : Select a skin from NameMC and click the green "**Download**" button 🔽
+- Step 2 : Log in to TLauncher and go to your profile: https://tlauncher.org/profile/
+- Step 3 : Click "**Upload Skin**" and select the skin file you downloaded.
 
 ---
 
-## 4. Add Your Account to the TLauncher Desktop App
+## 4. Add Your Account to the TLauncher Desktop Ap
 
 <div align="center"> <img src="assets/images/setup-mc/add tlauncher account.jpg"> </div>
 
@@ -48,12 +51,12 @@
 
 ## 5. Install and Select the Proper Version
 
-**Our server requirements:**
+### **Server Requirements:**
 `Fabric 1.21`
 
-To connect, you must install the correct Minecraft version; otherwise, it will not work.
-- After selecting the version `Fabric 1.21`, click **Install.**
-- If the `Fabric 1.21` is already installed, you need to check the `Force Update`, click **Install**
+To connect to the server, you must install the correct Minecraft version.
+- If the version `Fabric 1.21` is not installed, select it and click __Install__.
+- If `Fabric 1.21` is already installed, check the "`Force Update`" option, then click __Install__.
 
 <div align="center"> <img src="assets/images/setup-mc/force update.jpg"> </div>
 
