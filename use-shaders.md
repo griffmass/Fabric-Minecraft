@@ -22,7 +22,7 @@
 
 ##
 
-<div align="center"> <img src="assets/images/join-server/Screenshot (665).jpg"> </div>
+<div align="center"> <img src="assets/images/use-shaders/Screenshot (665).jpg"> </div>
 
 ---
 
