@@ -6,7 +6,7 @@
 
 ## 1. Download and Install Iris Shaders
 
-- Step 1 : Go to the official Iris Shaders website: -> https://www.irisshaders.dev/
+- Step 1 : Go to the official Iris Shaders website: https://www.irisshaders.dev/
 - Step 2 : Click **Download Now.**
 - Step 3 : Click **Download Universal Jar.**
 - Step 4 : After downloading, open the file and install it.
@@ -27,7 +27,7 @@
 | ComplementaryUnbound_r5.3                  | Mid-range PC           | Power Hungry     |
 | Sildur's Enhanced Default v1.17 Fast       | Low-end PC             | Power Efficient  |
 
-- Step 1 : Download recommended shaders here -> [Google Drive Link](https://drive.google.com/drive/u/0/folders/1zhcKd8_JRFz0OPrVxE_usgp4cKsTGP38)
+- Step 1 : Download recommended shaders here: [Google Drive Link](https://drive.google.com/drive/u/0/folders/1zhcKd8_JRFz0OPrVxE_usgp4cKsTGP38)
 - Step 2 : Open File Explorer.
 - Step 3 : Navigate to `C:` > `Users` > `User` > `AppData` > `Roaming` > `minecraft` > `shaderpacks`
 - Step 4 : Paste your shader(s) into the **shaderpacks** folder.
