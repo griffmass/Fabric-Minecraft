@@ -7,7 +7,7 @@
 [![Join Server](https://img.shields.io/badge/Join%20Server-skyblue?style=for-the-badge&logoColor=gray)](join-to-server.md)
 [![Add Shaders](https://img.shields.io/badge/Add%20Shaders-skyblue?style=for-the-badge&logoColor=gray)](use-shaders.md)
 [![Resource Pack](https://img.shields.io/badge/Resource%20Packs-skyblue?style=for-the-badge&logoColor=gray)](resourcepack.md)
-[![Home](https://img.shields.io/badge/Home-skyblue?style=for-the-badge&logoColor=gray)](../../README.md)
+[![Home](https://img.shields.io/badge/Home-white?style=for-the-badge&logoColor=gray)](../../README.md)
 
 ---
 
