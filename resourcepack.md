@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Download All Resourcepacks
+## 1. Download All Resource Packs
 
 - Step 1 : Click the OPTION <a href="https://drive.google.com/drive/u/0/folders/1fCE552raGQK7nNoW5SKWI0pFotz8BluG">
     <img src="assets/texts/resourcepack.png" alt="Download Mods" width="150">
