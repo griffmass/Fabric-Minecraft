@@ -6,7 +6,7 @@
 [![Download Links](https://img.shields.io/badge/Download%20Links-purple?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/12r5TuwIdvtbbt_RJacWdFZ7pzLhuUHIU)
 [![Join Server](https://img.shields.io/badge/Join%20Server-purple?style=for-the-badge&logoColor=gray)](join-to-server.md)
 [![Add Shaders](https://img.shields.io/badge/Add%20Shaders-purple?style=for-the-badge&logoColor=gray)](use-shaders.md)
-[![Resource Pack](https://img.shields.io/badge/Resource%20Packs-purple?style=for-the-badge&logoColor=gray)](resourcepack.md)
+[![Add Resource Pack](https://img.shields.io/badge/Add%20Resource%20Packs-purple?style=for-the-badge&logoColor=gray)](resourcepack.md)
 [![Home](https://img.shields.io/badge/Home-white?style=for-the-badge&logoColor=gray)](../../README.md)
 
 ---
