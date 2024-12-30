@@ -20,10 +20,10 @@
 ## 1. Download All Resource Packs
 
 - Step 1 : Download the resource packs from here: [Google Drive Link](https://drive.google.com/drive/u/0/folders/1fCE552raGQK7nNoW5SKWI0pFotz8BluG)
-- Step 2 : Download the folders **Better-Leaves-9.0** & **Clear Glass Pack 1.21**
+- Step 2: Download the folders: __Better-Leaves-9.0__, __Clear Glass Pack 1.21__, and __Horror Ambience Music 1.1__
 - Step 3 : Open Minecraft
 - Step 4 : Go to `Options` > `Resource Packs...`
-- Step 5 : Transfer the folders **Better-Leaves-9.0** & **Clear Glass Pack 1.21** into the **resourcepacks** folder
+- Step 5 : Transfer the folders __Better-Leaves-9.0__, __Clear Glass Pack 1.21__, and __Horror Ambience Music 1.1__ folder
 - Step 6 : You're done!
 
 <div align="center"> <img src="../../assets/images/resourcepack/Screenshot (678).jpg"> </div>
