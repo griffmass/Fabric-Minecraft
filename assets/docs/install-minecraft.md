@@ -51,7 +51,7 @@ Visit [NameMC](https://namemc.com/) to download a skin.
 
 ---
 
-## 4. Add Your Account to the TLauncher Desktop Ap
+## 4. Add Your Account to the TLauncher Desktop App
 
 <div align="center"> <img src="../../assets/images/setup-mc/add tlauncher account.jpg"> </div>
 
