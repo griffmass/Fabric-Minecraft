@@ -25,7 +25,7 @@
 
 # How to Join for Beginners
 
-> __STEP 1:__ Set up Minecraft __->__ [Install Minecraft Instructions](../../assets/docs/install-minecraft.md)
+> __STEP 1:__ Set up Minecraft __->__ [Install Minecraft Instructions](assets/docs/install-minecraft.md)
 >> __Contents ↓__
 >> - [x] Download and Install TLauncher
 >> - [x] Create a TLauncher Account
@@ -33,12 +33,12 @@
 >> - [x] Add Your Account to the TLauncher Desktop App
 >> - [x] Install and Select the Proper Version
 
-> __STEP 2:__ Import the mods __->__ [Import Mods Instructions](../../assets/docs/imports-mod.md)
+> __STEP 2:__ Import the mods __->__ [Import Mods Instructions](assets/docs/imports-mod.md)
 >> __Contents ↓__
 >> - [x] Download All Mods
 >> - [x] Import All Mods
 
-> __STEP 3:__ Join the Server __->__ [Join the Server Instructions](../../assets/docs/imports-mod.md)
+> __STEP 3:__ Join the Server __->__ [Join the Server Instructions](assets/docs/imports-mod.md)
 
 ---
 
