@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Aternos Server Address</td>
-    <td style="border: 1px solid #ddd; padding: 8px;"><code>yamimahu.aternos.me:63908</code></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><code>mclordniggu.aternos.me:33304</code></td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Mods</td>
@@ -54,8 +54,6 @@
 # Direct Links to Mods, Shaders, and Resource Packs
 
 [![Essential Mods](https://img.shields.io/badge/Server%20Mods-lightgray?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/1expguYgTjUxkGpnMVZYCzMNWrF-VKAHP)
-[![Mod Collections](https://img.shields.io/badge/Server%20Mod%20Collections-gray?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/1zVUG5khpVl5C_pMYmL3IO9xMy03WYyUB)
-[![Download Links](https://img.shields.io/badge/Text%20File%20For%20Mods,%20Shaders,%20Resource%20Packs%20Links-gray?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/12r5TuwIdvtbbt_RJacWdFZ7pzLhuUHIU)
 [![Shaders](https://img.shields.io/badge/Shaders-darkgreen?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/1zhcKd8_JRFz0OPrVxE_usgp4cKsTGP38)
 [![Resource Packs](https://img.shields.io/badge/Resource%20Packs-blue?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/1fCE552raGQK7nNoW5SKWI0pFotz8BluG)
 
