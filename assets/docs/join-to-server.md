@@ -24,7 +24,7 @@ Go to:
 **Server Address :**
 
 ```
-yamimahu.aternos.me:63908
+mclordniggu.aternos.me:33304
 ```
 
 <div align="center"> <img src="../../assets/images/join-server/Screenshot (656).jpg"> </div>
