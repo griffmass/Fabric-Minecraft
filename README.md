@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Mods</td>
-    <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://shorturl.at/UnJDp" target="_blank">https://shorturl.at/UnJDp</a></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://shorturl.at/2qeqF" target="_blank">https://shorturl.at/UnJDp</a></td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Minecraft Version</td>
