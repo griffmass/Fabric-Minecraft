@@ -53,9 +53,9 @@
 
 # Direct Links to Mods, Shaders, and Resource Packs
 
-[![Essential Mods](https://img.shields.io/badge/Server%20Mods-lightgray?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/1expguYgTjUxkGpnMVZYCzMNWrF-VKAHP)
-[![Shaders](https://img.shields.io/badge/Shaders-darkgreen?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/1zhcKd8_JRFz0OPrVxE_usgp4cKsTGP38)
-[![Resource Packs](https://img.shields.io/badge/Resource%20Packs-blue?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/u/0/folders/1fCE552raGQK7nNoW5SKWI0pFotz8BluG)
+[![Essential Mods](https://img.shields.io/badge/Server%20Mods-lightgray?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/folders/1YGgE69lhLF2aFLMD_zClRyE7V6v5Mule?usp=sharing)
+[![Shaders](https://img.shields.io/badge/Shaders-darkgreen?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/folders/1zhcKd8_JRFz0OPrVxE_usgp4cKsTGP38?usp=sharing)
+[![Resource Packs](https://img.shields.io/badge/Resource%20Packs-blue?style=for-the-badge&logoColor=gray)](https://drive.google.com/drive/folders/1fCE552raGQK7nNoW5SKWI0pFotz8BluG?usp=sharing)
 
 ---
 
