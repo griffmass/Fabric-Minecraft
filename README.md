@@ -41,6 +41,13 @@
 > __STEP 3:__ Join the Server __->__ [Join the Server Instructions](assets/docs/join-to-server.md)
 ---
 
+<div align="center">
+  <a href="https://www.youtube.com/playlist?list=PLVQXZJsMeIxViElIxOyKRpAox9xhf61Wj" target="_blank">
+    <img src="assets/images/thumbnail/Screenshot.png" width="500" alt="YouTube Tutorial">
+  </a>
+</div>
+
+
 # Guide Instructions
 
 [![Set up Minecraft](https://img.shields.io/badge/Set%20up%20Minecraft-skyblue?style=for-the-badge&logoColor=gray)](assets/docs/install-minecraft.md)
